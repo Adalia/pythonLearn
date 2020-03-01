@@ -1,0 +1,21 @@
+python版本：3.6
+xlwt==1.3.0
+selenium==3.8.1
+PyMySQL==0.8.0
+chromedriver.exe 需要放置到Scripts目录下
+
+requests==0.0.26 (pip install requests)
+ConfigParser==3.5.0request
+
+Appium-Python-Client==0.26
+get==0.0.39
+post==0.0.26
+public==0.0.65
+query-string==0.0.28
+request==0.0.26
+selenium==3.7.0
+virtualenv==15.1.0
+ConfigParser==3.5.0
+
+
+
